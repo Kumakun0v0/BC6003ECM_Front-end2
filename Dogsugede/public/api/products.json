@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ffd9f5ba-b76c-4359-930a-930bc2bbf3af",
+    "name": "Lucky7",
+    "breed": "Husky",
+    "age": "2",
+    "microchip_number": "123456789",
+    "neutered": true,
+    "memo": "Fendi began life in 1925 as a fur and leather speciality store in Rome.",
+    "dob": "2021-09-10T00:00:00.000Z",
+    "shelter_id": "18673fef-9f3a-4ea6-a2a3-77e4b5ea7f1d",
+    "is_adopted": false,
+    "image": {
+      "id": 1,
+      "thumbnail": "https://images.dog.ceo/breeds/husky/n02110185_12120.jpg",
+      "original": "https://images.dog.ceo/breeds/husky/n02110185_12120.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://images.dog.ceo/breeds/husky/n02110185_12120.jpg",
+        "original": "https://images.dog.ceo/breeds/husky/n02110185_12120.jpg"
+      }
+    ]
+  }
+]
